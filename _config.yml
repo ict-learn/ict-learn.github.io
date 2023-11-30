@@ -21,9 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Leaderboard:
+    - A: "leaderboard/advprompt.md"
+    - B: "https://www.markdowntutorial.com/"
   Papers: "papers"
 
 ################
