@@ -1,20 +1,16 @@
 ---
 title: Papers
-layout: default
-nav_order: 1
-description: "Our research on LLM evaluation"
+layout: page
+sub_title: "Our research on LLM evaluation"
 ---
 
-# Papers 
-
-- [Papers](#papers)
-  - [DyVal: graph-informed dynamic evaluation of large language models](#dyval-graph-informed-dynamic-evaluation-of-large-language-models)
-  - [Meta Semantic Template for Evaluation of Large Language Models](#meta-semantic-template-for-evaluation-of-large-language-models)
-  - [A survey on evaluation of large language models](#a-survey-on-evaluation-of-large-language-models)
-  - [PromptBench: towards evaluating the adversarial robustness to prompts of LLMs](#promptbench-towards-evaluating-the-adversarial-robustness-to-prompts-of-llms)
-  - [GLUE-X: Evaluation from an Out-of-distribution Generalization Perspective](#glue-x-evaluation-from-an-out-of-distribution-generalization-perspective)
-  - [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](#pandalm-an-automatic-evaluation-benchmark-for-llm-instruction-tuning-optimization)
-  - [On the robustness of ChatGPT: an adversarial and OOD perspective](#on-the-robustness-of-chatgpt-an-adversarial-and-ood-perspective)
+- [DyVal: graph-informed dynamic evaluation of large language models](#dyval-graph-informed-dynamic-evaluation-of-large-language-models)
+- [Meta Semantic Template for Evaluation of Large Language Models](#meta-semantic-template-for-evaluation-of-large-language-models)
+- [A survey on evaluation of large language models](#a-survey-on-evaluation-of-large-language-models)
+- [PromptBench: towards evaluating the adversarial robustness to prompts of LLMs](#promptbench-towards-evaluating-the-adversarial-robustness-to-prompts-of-llms)
+- [GLUE-X: Evaluation from an Out-of-distribution Generalization Perspective](#glue-x-evaluation-from-an-out-of-distribution-generalization-perspective)
+- [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](#pandalm-an-automatic-evaluation-benchmark-for-llm-instruction-tuning-optimization)
+- [On the robustness of ChatGPT: an adversarial and OOD perspective](#on-the-robustness-of-chatgpt-an-adversarial-and-ood-perspective)
 
 
 - - -
