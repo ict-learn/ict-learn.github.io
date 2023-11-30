@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Leaderboard:
-    - A: "leaderboard/advprompt.md"
+    - A: "leaderboard/advprompt"
     - B: "https://www.markdowntutorial.com/"
   Papers: "papers"
 
