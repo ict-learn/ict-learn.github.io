@@ -14,6 +14,7 @@ title: My Website
 
 # Your name to show in the footer
 author: Some Person
+full-width: true
 
 ###############################################
 # --- List of links in the navigation bar --- #
